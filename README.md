@@ -1,4 +1,2 @@
 # Python_Diwali_Sales_Analysis
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
-
-## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
+This project analyzes Diwali sales data across different states to enhance customer experience and optimize sales strategies for a retail company. By examining regional variations in sales trends during the Diwali period, the goal is to identify actionable insights that can drive better decision-making and improve overall business performance.
